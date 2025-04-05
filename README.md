@@ -6,10 +6,10 @@ A simple and elegant **Toast Notification** system built using **HTML**, **CSS**
 ![Toast Notification Screenshot](dashboard.png)
 
 ## ✨ Features
-- 🔔 Stylish toast alerts for success, error, warning, and info
-- ⏳ Auto-dismiss after a set time
-- 🖥️ Responsive and lightweight design
-- 🎨 Easily customizable styles and messages
+- 🔔 Stylish toast alerts for success, error, warning, and info.
+- ⏳ Auto-dismiss after a set time.
+- 🖥️ Responsive and lightweight design.
+- 🎨 Easily customizable styles and messages.
 
 ## 🛠️ Technologies Used
 - 🏗️ **HTML** – Markup structure
