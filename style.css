@@ -7,7 +7,7 @@ box-sizing: border-box;
 
 body{
   height: 93vh;
-  background: linear-gradient(135deg, #f7edff,  #FA7EC4);
+  background: #f7edff;
 }
 .buttons{
   margin: 50px;
