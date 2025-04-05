@@ -42,9 +42,9 @@ A simple and elegant **Toast Notification** system built using **HTML**, **CSS**
 
 ## 💡 Customization Ideas
 - Change toast position (top-left, top-right, bottom, etc.)
-- Modify duration for different types
-- Add sound/vibration support
-- Queue multiple toasts
+- Modify duration for different.
+- Add sound/vibration support.
+- Queue multiple toasts.
 
 ## 🤝 Contributing
 Pull requests and feature suggestions are welcome! Please fork the repo and submit your ideas.
