@@ -6,7 +6,8 @@ box-sizing: border-box;
 }
 
 body{
-  background: #f7edff;
+  height: 93vh;
+  background: linear-gradient(160deg, #f7edff,  #FA7EC4);
 }
 .buttons{
   margin: 50px;
